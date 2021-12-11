@@ -1,0 +1,9 @@
+name : DPRKtag
+main : com.captain0potlid.captain0potlid.main
+version : 1.0
+api-version: 1.16
+author : captain0potlid
+commands :
+  dprktag :
+    description : shows display of dprktag menu
+    usage: /<command>
